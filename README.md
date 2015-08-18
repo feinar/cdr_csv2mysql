@@ -15,8 +15,6 @@ Add your database configuration in file `db.config`
 To run script:
 
 ```
-#!shell
-
 $ ./cdr_csv2mysql.sh Master.csv
 ```
 
